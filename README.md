@@ -83,6 +83,7 @@ Note, if you're on Windows, see [below](#windows-installation).
 git clone https://github.com/a16z-infra/ai-town.git
 cd ai-town
 npm install
+npm run setup
 ```
 
 This will require logging into your Convex account, if you haven't already.
